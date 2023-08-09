@@ -1,0 +1,9 @@
+body{background-color: plum;
+}
+h1,h2,ul,p{
+    font-family: 'Press Start 2P', cursive;
+}
+
+h2{
+    font-size: 10px;
+}
